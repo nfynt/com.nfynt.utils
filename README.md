@@ -1,4 +1,5 @@
 # com.nfynt.utils
+[![npm version](https://badge.fury.io/js/com.nfynt.utils.svg)](https://badge.fury.io/js/com.nfynt.utils)
 
 ### Utility Package for Unity
 Collection of plugins, scripts, and assets to aid in Unity development within editor or at runtime. List of features and functions include:
