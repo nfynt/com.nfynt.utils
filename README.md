@@ -1,12 +1,11 @@
-# com.nfynt.utils
-[![npm version](https://badge.fury.io/js/com.nfynt.utils.svg)](https://badge.fury.io/js/com.nfynt.utils)
+# Utility Package for Unity
 
-### Utility Package for Unity
 Collection of plugins, scripts, and assets to aid in Unity development within editor or at runtime. List of features and functions include:
 - Anchoring of canvas UI elements to corner w.r.t. RectTransform (shortcut: `%(Ctrl/Cmd) + U`).
 - Debug individual mesh filter properties attached to a gameobject (Context menu `Nfynt > Mesh filter stats`).
 - PC and mobile friendly full-screen WebGL template (Player > Resolution and Presentation - `NFYNT`).
 - Fix Unity InputField component for WebGL builds (including mobile). Simply add `WebGLInput` script to your InputField gameobject in scene.
+- `Singleton` pattern for runtime play mode and scriptable instance object for editor mode classes.
 
 ### Importing in Unity
 
